@@ -20,13 +20,8 @@ for soup in links_find_search:
 # find all the anchor tags with "href" 
 # attribute strting with "http"
 
-images_list = []
+for link in soup.find_all('a', attrs={'attrs="href': re.compile("^http://")}):
 
-images = soup.select('a')
-for image in images:
-    src = image.get('href')
+    # display the actual urls
 
-    images_list.append({"src": src})
-
-for image in images_list:
-    print(image)
+    print(link.get('href'))
