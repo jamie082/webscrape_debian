@@ -4,21 +4,20 @@ from bs4 import BeautifulSoup
 import requests
 import re
 
+# https://www.digitalocean.com/community/tutorials/how-to-scrape-web-pages-with-beautiful-soup-and-python-3
+
 website = requests.get('http://debian.org/doc/manuals/debian-handbook/')
-soup = BeautifulSoup(website.content, 'html.parser')
+soup = BeautifulSoup(website.text, 'html.parser')
 
 # dt, dd, dl HTML tags
-links_find = soup.find(class_='book')
-links_find_search = links_find.find_all('a')
 
-'''
-for soup in links_find_search:
-    names = links_find.contents[0]
-    print (soup.string)
-'''
+two_find_list = soup.find(class_='book')
+two_find_list_items = two_find_list.find_all('a')
 
-for links_name in links_find_search:
-    print(links_name.prettify())
+for list_name in two_find_list_items:
+    names = list_name.contents[0]
+    print(names)
+
 
 #  second additional code to extract link to either pandas or export to XML document
 
