@@ -11,7 +11,7 @@ soup = BeautifulSoup(website.text, 'html.parser')
 
 # dt, dd, dl HTML tags
 
-two_find_list = soup.find(class_='book')
+two_find_list = soup.find(class_='toc')
 two_find_list_items = two_find_list.find_all('a')
 
 for list_name in two_find_list_items:
