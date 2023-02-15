@@ -21,7 +21,7 @@ two_find_list_items = two_find_list.find_all('a')
 
 for list_name in two_find_list_items:
     names = list_name.contents[0]
-    links = 'URL' + list_name.get('href')
+    links = 'http://www.' + list_name.get('href')
 
 
     # Add each artist's name and associated link to a row

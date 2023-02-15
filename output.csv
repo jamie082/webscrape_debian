@@ -1,173 +1,173 @@
 Name,Link
-Preface,URLpreface.en.html
-Foreword,URLforeword.en.html
-1. Why This Book?,URLforeword.en.html#sect.why-this-book
-2. Who Is this Book For?,URLsect.who-is-this-book-for.en.html
-3. General Approach,URLsect.selected-approach.en.html
-4. Book Structure,URLsect.book-structure.en.html
-5. Contributing,URLsect.contributing.en.html
-6. Acknowledgments,URLsect.acknowledgments.en.html
-6.1. A Bit of History,URLsect.acknowledgments.en.html#id-1.3.10.2
-6.2. Special Thanks to Contributors,URLsect.acknowledgments.en.html#id-1.3.10.3
-6.3. Thanks to Translators,URLsect.acknowledgments.en.html#id-1.3.10.4
-6.4. Personal Acknowledgments from Raphaël,URLsect.acknowledgments.en.html#id-1.3.10.5
-6.5. Personal Acknowledgments from Roland,URLsect.acknowledgments.en.html#id-1.3.10.6
-1. The Debian Project,URLthe-debian-project.en.html
-1.1. What Is Debian?,URLthe-debian-project.en.html#sect.what-is-debian
-1.1.1. A Multi-Platform Operating System,URLthe-debian-project.en.html#id-1.4.4.9
-1.1.2. The Quality of Free Software,URLthe-debian-project.en.html#id-1.4.4.10
-1.1.3. The Legal Framework: A Non-Profit Organization,URLthe-debian-project.en.html#id-1.4.4.11
-1.2. The Foundation Documents,URLsect.foundation-documents.en.html
-1.2.1. The Commitment towards Users,URLsect.foundation-documents.en.html#sect.social-contract
-1.2.2. The Debian Free Software Guidelines,URLsect.foundation-documents.en.html#sect.dfsg
-1.3. The Inner Workings of the Debian Project,URLsect.debian-internals.en.html
-1.3.1. The Debian Developers,URLsect.debian-internals.en.html#id-1.4.6.6
-1.3.2. The Active Role of Users,URLsect.debian-internals.en.html#id-1.4.6.7
-"1.3.3. Teams, Blends, and Sub-Projects",URLsect.debian-internals.en.html#id-1.4.6.8
-1.4. Follow Debian News,URLsect.follow-debian-news.en.html
-1.5. The Role of Distributions,URLsect.role-of-distributions.en.html
-1.5.1. The Installer: ,URLsect.role-of-distributions.en.html#id-1.4.8.4
-1.5.2. The Software Library,URLsect.role-of-distributions.en.html#id-1.4.8.5
-1.6. Lifecycle of a Release,URLsect.release-lifecycle.en.html
-1.6.1. The ,URLsect.release-lifecycle.en.html#id-1.4.9.12
-1.6.2. The ,URLsect.release-lifecycle.en.html#id-1.4.9.13
-1.6.3. Migration to ,URLsect.release-lifecycle.en.html#id-1.4.9.14
-1.6.4. The Promotion from ,URLsect.release-lifecycle.en.html#id-1.4.9.15
-1.6.5. The ,URLsect.release-lifecycle.en.html#id-1.4.9.16
-2. Presenting the Case Study,URLcase-study.en.html
-2.1. Fast Growing IT Needs,URLcase-study.en.html#sect.fast-growing-it-needs
-2.2. Master Plan,URLsect.master-plan.en.html
-2.3. Why a GNU/Linux Distribution?,URLsect.why-gnu-linux.en.html
-2.4. Why the Debian Distribution?,URLsect.why-debian.en.html
-2.4.1. Commercial and Community Driven Distributions,URLsect.why-debian.en.html#id-1.5.8.5
-2.5. Why Debian Bullseye?,URLsect.why-debian-stable.en.html
-3. Analyzing the Existing Setup and Migrating,URLexisting-setup.en.html
-3.1. Coexistence in Heterogeneous Environments,URLexisting-setup.en.html#sect.heterogeneous-environments
-3.1.1. Integration with Windows Machines,URLexisting-setup.en.html#id-1.6.4.4
-3.1.2. Integration with macOS machines,URLexisting-setup.en.html#id-1.6.4.5
-3.1.3. Integration with Other Linux/Unix Machines,URLexisting-setup.en.html#id-1.6.4.6
-3.2. How To Migrate,URLsect.how-to-migrate.en.html
-3.2.1. Survey and Identify Services,URLsect.how-to-migrate.en.html#id-1.6.5.4
-3.2.2. Backing up the Configuration,URLsect.how-to-migrate.en.html#id-1.6.5.5
-3.2.3. Taking Over an Existing Debian Server,URLsect.how-to-migrate.en.html#id-1.6.5.6
-3.2.4. Installing Debian,URLsect.how-to-migrate.en.html#id-1.6.5.7
-3.2.5. Installing and Configuring the Selected Services,URLsect.how-to-migrate.en.html#id-1.6.5.8
-4. Installation,URLinstallation.en.html
-4.1. Installation Methods,URLinstallation.en.html#sect.installation-methods
-4.1.1. Installing from a CD-ROM/DVD-ROM,URLinstallation.en.html#sect.install-cd
-4.1.2. Booting from a USB Key,URLinstallation.en.html#sect.install-usb
-4.1.3. Installing through Network Booting,URLinstallation.en.html#sect.install-net
-4.1.4. Other Installation Methods,URLinstallation.en.html#sect.install-auto
-"4.2. Installing, Step by Step",URLsect.installation-steps.en.html
-4.2.1. Booting and Starting the Installer,URLsect.installation-steps.en.html#sect.install-boot
-4.2.2. Selecting the language,URLsect.installation-steps.en.html#sect.install-lang
-4.2.3. Selecting the country,URLsect.installation-steps.en.html#sect.install-country
-4.2.4. Selecting the keyboard layout,URLsect.installation-steps.en.html#sect.install-keyboard
-4.2.5. Detecting Hardware,URLsect.installation-steps.en.html#sect.install-detect-hardware
-4.2.6. Loading Components,URLsect.installation-steps.en.html#sect.install-load-components
-4.2.7. Detecting Network Hardware,URLsect.installation-steps.en.html#sect.install-detect-network
-4.2.8. Configuring the Network,URLsect.installation-steps.en.html#sect.install-network-config
-4.2.9. Administrator Password,URLsect.installation-steps.en.html#id-1.7.12.10
-4.2.10. Creating the First User,URLsect.installation-steps.en.html#id-1.7.12.11
-4.2.11. Configuring the Clock,URLsect.installation-steps.en.html#sect.install-clock-config
-4.2.12. Detecting Disks and Other Devices,URLsect.installation-steps.en.html#sect.install-detect-disks
-4.2.13. Starting the Partitioning Tool,URLsect.installation-steps.en.html#sect.install-partman
-4.2.14. Installing the Base System,URLsect.installation-steps.en.html#id-1.7.12.15
-4.2.15. Configuring the Package Manager (,URLsect.installation-steps.en.html#id-1.7.12.16
-4.2.16. Debian Package Popularity Contest,URLsect.installation-steps.en.html#id-1.7.12.17
-4.2.17. Selecting Packages for Installation,URLsect.installation-steps.en.html#id-1.7.12.18
-4.2.18. Installing the GRUB Bootloader,URLsect.installation-steps.en.html#sect.installing-grub
-4.2.19. Finishing the Installation and Rebooting,URLsect.installation-steps.en.html#id-1.7.12.20
-4.3. After the First Boot,URLsect.after-first-boot.en.html
-4.3.1. Installing Additional Software,URLsect.after-first-boot.en.html#id-1.7.13.5
-4.3.2. Upgrading the System,URLsect.after-first-boot.en.html#id-1.7.13.6
-5. Packaging System: Tools and Fundamental Principles,URLpackaging-system.en.html
-5.1. Structure of a Binary Package,URLpackaging-system.en.html#sect.binary-package-structure
-5.2. Package Meta-Information,URLsect.package-meta-information.en.html
-5.2.1. Description: the ,URLsect.package-meta-information.en.html#sect.control
-5.2.2. Configuration Scripts,URLsect.package-meta-information.en.html#sect.configuration-scripts
-"5.2.3. Checksums, List of Configuration Files, et al.",URLsect.package-meta-information.en.html#sect.conffiles
-5.3. Structure of a Source Package,URLsect.source-package-structure.en.html
-5.3.1. Format,URLsect.source-package-structure.en.html#id-1.8.7.4
-5.3.2. Usage within Debian,URLsect.source-package-structure.en.html#id-1.8.7.5
-5.4. Manipulating Packages with ,URLsect.manipulating-packages-with-dpkg.en.html
-5.4.1. Installing Packages,URLsect.manipulating-packages-with-dpkg.en.html#id-1.8.8.5
-5.4.2. Package Removal,URLsect.manipulating-packages-with-dpkg.en.html#id-1.8.8.6
-5.4.3. Querying ,URLsect.manipulating-packages-with-dpkg.en.html#sect.dpkg-list
-5.4.4. ,URLsect.manipulating-packages-with-dpkg.en.html#sect.dpkg-log
-5.4.5. Multi-Arch Support,URLsect.manipulating-packages-with-dpkg.en.html#sect.multi-arch
-5.5. Coexistence with Other Packaging Systems,URLsect.coexistence-with-other-packaging-systems.en.html
-6. Maintenance and Updates: The APT Tools,URLapt.en.html
-6.1. Filling in the ,URLapt.en.html#sect.apt-sources.list
-6.1.1. Syntax,URLapt.en.html#id-1.9.16.6
-6.1.2. Repositories for ,URLapt.en.html#sect.apt-sources.list.stable
-6.1.3. Repositories for ,URLapt.en.html#sect.apt-sources.list.testing
-6.1.4. Using Alternate Mirrors,URLapt.en.html#sect.apt-sources.list.cdn
-6.1.5. Non-Official Resources: ,URLapt.en.html#sect.apt-sources.list.mentors
-6.1.6. Caching Proxy for Debian Packages,URLapt.en.html#sect.apt-sources.list.cache-proxy
-6.2. ,URLsect.apt-get.en.html
-6.2.1. Initialization,URLsect.apt-get.en.html#sect.apt-update
-6.2.2. Installing and Removing,URLsect.apt-get.en.html#sect.apt.install
-6.2.3. System Upgrade,URLsect.apt-get.en.html#sect.apt-upgrade
-6.2.4. Configuration Options,URLsect.apt-get.en.html#sect.apt-config
-6.2.5. Managing Package Priorities,URLsect.apt-get.en.html#sect.apt.priorities
-6.2.6. Working with Several Distributions,URLsect.apt-get.en.html#sect.apt-mix-distros
-6.2.7. Tracking Automatically Installed Packages,URLsect.apt-get.en.html#sect.automatic-tracking
-6.2.8. APT Patterns,URLsect.apt-get.en.html#sect.apt-patterns
-6.3. The ,URLsect.apt-cache.en.html
-6.3.1. The ,URLsect.apt-cache.en.html#sect.apt-cache-policy
-6.4. The ,URLsect.apt-file.en.html
-6.5. Frontends: ,URLsect.apt-frontends.en.html
-6.5.1. ,URLsect.apt-frontends.en.html#sect.aptitude
-6.5.2. ,URLsect.apt-frontends.en.html#id-1.9.20.7
-6.6. Checking Package Authenticity,URLsect.package-authentication.en.html
-6.7. Upgrading from One Stable Distribution to the Next,URLsect.dist-upgrade.en.html
-6.7.1. Recommended Procedure,URLsect.dist-upgrade.en.html#id-1.9.22.6
-6.7.2. Handling Problems after an Upgrade,URLsect.dist-upgrade.en.html#sect.dist-upgrade-problems
-6.7.3. Cleaning Up after an Upgrade,URLsect.dist-upgrade.en.html#id-1.9.22.8
-6.8. Keeping a System Up to Date,URLsect.regular-upgrades.en.html
-6.9. Automatic Upgrades,URLsect.automatic-upgrades.en.html
-6.9.1. Configuring ,URLsect.automatic-upgrades.en.html#id-1.9.24.8
-6.9.2. Configuring APT,URLsect.automatic-upgrades.en.html#id-1.9.24.9
-6.9.3. Configuring ,URLsect.automatic-upgrades.en.html#id-1.9.24.10
-6.9.4. Handling Command Line Interactions,URLsect.automatic-upgrades.en.html#id-1.9.24.11
-6.9.5. The Miracle Combination,URLsect.automatic-upgrades.en.html#id-1.9.24.12
-6.10. Searching for Packages,URLsect.searching-packages.en.html
-7. Solving Problems and Finding Relevant Information,URLsolving-problems.en.html
-7.1. Documentation Sources,URLsolving-problems.en.html#sect.documentation-sources
-7.1.1. Manual Pages,URLsolving-problems.en.html#sect.manual-pages
-7.1.2. ,URLsolving-problems.en.html#id-1.10.4.5
-7.1.3. Specific Documentation,URLsolving-problems.en.html#id-1.10.4.6
-7.1.4. Websites,URLsolving-problems.en.html#id-1.10.4.7
-7.1.5. Tutorials (,URLsolving-problems.en.html#id-1.10.4.8
-7.2. Common Procedures,URLsect.common-procedures.en.html
-7.2.1. Configuring a Program,URLsect.common-procedures.en.html#id-1.10.5.5
-7.2.2. Monitoring What Daemons Are Doing,URLsect.common-procedures.en.html#id-1.10.5.6
-7.2.3. Asking for Help on a Mailing List,URLsect.common-procedures.en.html#id-1.10.5.7
-7.2.4. Reporting a Bug When a Problem Is Too Difficult,URLsect.common-procedures.en.html#id-1.10.5.8
-"8. Basic Configuration: Network, Accounts, Printing...",URLbasic-configuration.en.html
-8.1. Configuring the System for Another Language,URLbasic-configuration.en.html#sect.config-language-support
-8.1.1. Setting the Default Language,URLbasic-configuration.en.html#sect.default-language
-8.1.2. Configuring the Keyboard,URLbasic-configuration.en.html#sect.keyboard-config
-8.1.3. Migrating to UTF-8,URLbasic-configuration.en.html#sect.utf8-migration
-8.2. Configuring the Network,URLsect.network-config.en.html
-8.2.1. Ethernet Interface,URLsect.network-config.en.html#sect.interface-ethernet
-8.2.2. Wireless Interface,URLsect.network-config.en.html#sect.interface-wireless
-8.2.3. Connecting with PPP through a PSTN Modem,URLsect.network-config.en.html#sect.ppp-rtc
-8.2.4. Connecting through an ADSL Modem,URLsect.network-config.en.html#sect.adsl
-8.2.5. Automatic Network Configuration for Roaming Users,URLsect.network-config.en.html#sect.roaming-network-config
-8.3. Setting the Hostname and Configuring the Name Service,URLsect.hostname-name-service.en.html
-8.3.1. Name Resolution,URLsect.hostname-name-service.en.html#sect.name-resolution
-8.4. User and Group Databases,URLsect.user-group-databases.en.html
-8.4.1. User List: ,URLsect.user-group-databases.en.html#sect.etc-passwd
-8.4.2. The Hidden and Encrypted Password File: ,URLsect.user-group-databases.en.html#sect.etc-shadow
-8.4.3. Modifying an Existing Account or Password,URLsect.user-group-databases.en.html#sect.account-modification
-8.4.4. Disabling an Account,URLsect.user-group-databases.en.html#sect.disabling-account
-8.4.5. Group List: ,URLsect.user-group-databases.en.html#sect.etc-group
-8.5. Creating Accounts,URLsect.creating-accounts.en.html
-8.6. Shell Environment,URLsect.shell-environment.en.html
-8.7. Printer Configuration,URLsect.config-printing.en.html
-8.8. Configuring the Bootloader,URLsect.config-bootloader.en.html
-8.8.1. Identifying the Disks,URLsect.config-bootloader.en.html#sect.identify-disks
-8.8.2. GRUB 2 Configuration,URLsect.config-bootloader.en.html#sect.config-grub
-8.8.3. Using GRUB with EFI and ,URLsect.config-bootloader.en.html#sect.config-grub-efi
+Preface,http://www.preface.en.html
+Foreword,http://www.foreword.en.html
+1. Why This Book?,http://www.foreword.en.html#sect.why-this-book
+2. Who Is this Book For?,http://www.sect.who-is-this-book-for.en.html
+3. General Approach,http://www.sect.selected-approach.en.html
+4. Book Structure,http://www.sect.book-structure.en.html
+5. Contributing,http://www.sect.contributing.en.html
+6. Acknowledgments,http://www.sect.acknowledgments.en.html
+6.1. A Bit of History,http://www.sect.acknowledgments.en.html#id-1.3.10.2
+6.2. Special Thanks to Contributors,http://www.sect.acknowledgments.en.html#id-1.3.10.3
+6.3. Thanks to Translators,http://www.sect.acknowledgments.en.html#id-1.3.10.4
+6.4. Personal Acknowledgments from Raphaël,http://www.sect.acknowledgments.en.html#id-1.3.10.5
+6.5. Personal Acknowledgments from Roland,http://www.sect.acknowledgments.en.html#id-1.3.10.6
+1. The Debian Project,http://www.the-debian-project.en.html
+1.1. What Is Debian?,http://www.the-debian-project.en.html#sect.what-is-debian
+1.1.1. A Multi-Platform Operating System,http://www.the-debian-project.en.html#id-1.4.4.9
+1.1.2. The Quality of Free Software,http://www.the-debian-project.en.html#id-1.4.4.10
+1.1.3. The Legal Framework: A Non-Profit Organization,http://www.the-debian-project.en.html#id-1.4.4.11
+1.2. The Foundation Documents,http://www.sect.foundation-documents.en.html
+1.2.1. The Commitment towards Users,http://www.sect.foundation-documents.en.html#sect.social-contract
+1.2.2. The Debian Free Software Guidelines,http://www.sect.foundation-documents.en.html#sect.dfsg
+1.3. The Inner Workings of the Debian Project,http://www.sect.debian-internals.en.html
+1.3.1. The Debian Developers,http://www.sect.debian-internals.en.html#id-1.4.6.6
+1.3.2. The Active Role of Users,http://www.sect.debian-internals.en.html#id-1.4.6.7
+"1.3.3. Teams, Blends, and Sub-Projects",http://www.sect.debian-internals.en.html#id-1.4.6.8
+1.4. Follow Debian News,http://www.sect.follow-debian-news.en.html
+1.5. The Role of Distributions,http://www.sect.role-of-distributions.en.html
+1.5.1. The Installer: ,http://www.sect.role-of-distributions.en.html#id-1.4.8.4
+1.5.2. The Software Library,http://www.sect.role-of-distributions.en.html#id-1.4.8.5
+1.6. Lifecycle of a Release,http://www.sect.release-lifecycle.en.html
+1.6.1. The ,http://www.sect.release-lifecycle.en.html#id-1.4.9.12
+1.6.2. The ,http://www.sect.release-lifecycle.en.html#id-1.4.9.13
+1.6.3. Migration to ,http://www.sect.release-lifecycle.en.html#id-1.4.9.14
+1.6.4. The Promotion from ,http://www.sect.release-lifecycle.en.html#id-1.4.9.15
+1.6.5. The ,http://www.sect.release-lifecycle.en.html#id-1.4.9.16
+2. Presenting the Case Study,http://www.case-study.en.html
+2.1. Fast Growing IT Needs,http://www.case-study.en.html#sect.fast-growing-it-needs
+2.2. Master Plan,http://www.sect.master-plan.en.html
+2.3. Why a GNU/Linux Distribution?,http://www.sect.why-gnu-linux.en.html
+2.4. Why the Debian Distribution?,http://www.sect.why-debian.en.html
+2.4.1. Commercial and Community Driven Distributions,http://www.sect.why-debian.en.html#id-1.5.8.5
+2.5. Why Debian Bullseye?,http://www.sect.why-debian-stable.en.html
+3. Analyzing the Existing Setup and Migrating,http://www.existing-setup.en.html
+3.1. Coexistence in Heterogeneous Environments,http://www.existing-setup.en.html#sect.heterogeneous-environments
+3.1.1. Integration with Windows Machines,http://www.existing-setup.en.html#id-1.6.4.4
+3.1.2. Integration with macOS machines,http://www.existing-setup.en.html#id-1.6.4.5
+3.1.3. Integration with Other Linux/Unix Machines,http://www.existing-setup.en.html#id-1.6.4.6
+3.2. How To Migrate,http://www.sect.how-to-migrate.en.html
+3.2.1. Survey and Identify Services,http://www.sect.how-to-migrate.en.html#id-1.6.5.4
+3.2.2. Backing up the Configuration,http://www.sect.how-to-migrate.en.html#id-1.6.5.5
+3.2.3. Taking Over an Existing Debian Server,http://www.sect.how-to-migrate.en.html#id-1.6.5.6
+3.2.4. Installing Debian,http://www.sect.how-to-migrate.en.html#id-1.6.5.7
+3.2.5. Installing and Configuring the Selected Services,http://www.sect.how-to-migrate.en.html#id-1.6.5.8
+4. Installation,http://www.installation.en.html
+4.1. Installation Methods,http://www.installation.en.html#sect.installation-methods
+4.1.1. Installing from a CD-ROM/DVD-ROM,http://www.installation.en.html#sect.install-cd
+4.1.2. Booting from a USB Key,http://www.installation.en.html#sect.install-usb
+4.1.3. Installing through Network Booting,http://www.installation.en.html#sect.install-net
+4.1.4. Other Installation Methods,http://www.installation.en.html#sect.install-auto
+"4.2. Installing, Step by Step",http://www.sect.installation-steps.en.html
+4.2.1. Booting and Starting the Installer,http://www.sect.installation-steps.en.html#sect.install-boot
+4.2.2. Selecting the language,http://www.sect.installation-steps.en.html#sect.install-lang
+4.2.3. Selecting the country,http://www.sect.installation-steps.en.html#sect.install-country
+4.2.4. Selecting the keyboard layout,http://www.sect.installation-steps.en.html#sect.install-keyboard
+4.2.5. Detecting Hardware,http://www.sect.installation-steps.en.html#sect.install-detect-hardware
+4.2.6. Loading Components,http://www.sect.installation-steps.en.html#sect.install-load-components
+4.2.7. Detecting Network Hardware,http://www.sect.installation-steps.en.html#sect.install-detect-network
+4.2.8. Configuring the Network,http://www.sect.installation-steps.en.html#sect.install-network-config
+4.2.9. Administrator Password,http://www.sect.installation-steps.en.html#id-1.7.12.10
+4.2.10. Creating the First User,http://www.sect.installation-steps.en.html#id-1.7.12.11
+4.2.11. Configuring the Clock,http://www.sect.installation-steps.en.html#sect.install-clock-config
+4.2.12. Detecting Disks and Other Devices,http://www.sect.installation-steps.en.html#sect.install-detect-disks
+4.2.13. Starting the Partitioning Tool,http://www.sect.installation-steps.en.html#sect.install-partman
+4.2.14. Installing the Base System,http://www.sect.installation-steps.en.html#id-1.7.12.15
+4.2.15. Configuring the Package Manager (,http://www.sect.installation-steps.en.html#id-1.7.12.16
+4.2.16. Debian Package Popularity Contest,http://www.sect.installation-steps.en.html#id-1.7.12.17
+4.2.17. Selecting Packages for Installation,http://www.sect.installation-steps.en.html#id-1.7.12.18
+4.2.18. Installing the GRUB Bootloader,http://www.sect.installation-steps.en.html#sect.installing-grub
+4.2.19. Finishing the Installation and Rebooting,http://www.sect.installation-steps.en.html#id-1.7.12.20
+4.3. After the First Boot,http://www.sect.after-first-boot.en.html
+4.3.1. Installing Additional Software,http://www.sect.after-first-boot.en.html#id-1.7.13.5
+4.3.2. Upgrading the System,http://www.sect.after-first-boot.en.html#id-1.7.13.6
+5. Packaging System: Tools and Fundamental Principles,http://www.packaging-system.en.html
+5.1. Structure of a Binary Package,http://www.packaging-system.en.html#sect.binary-package-structure
+5.2. Package Meta-Information,http://www.sect.package-meta-information.en.html
+5.2.1. Description: the ,http://www.sect.package-meta-information.en.html#sect.control
+5.2.2. Configuration Scripts,http://www.sect.package-meta-information.en.html#sect.configuration-scripts
+"5.2.3. Checksums, List of Configuration Files, et al.",http://www.sect.package-meta-information.en.html#sect.conffiles
+5.3. Structure of a Source Package,http://www.sect.source-package-structure.en.html
+5.3.1. Format,http://www.sect.source-package-structure.en.html#id-1.8.7.4
+5.3.2. Usage within Debian,http://www.sect.source-package-structure.en.html#id-1.8.7.5
+5.4. Manipulating Packages with ,http://www.sect.manipulating-packages-with-dpkg.en.html
+5.4.1. Installing Packages,http://www.sect.manipulating-packages-with-dpkg.en.html#id-1.8.8.5
+5.4.2. Package Removal,http://www.sect.manipulating-packages-with-dpkg.en.html#id-1.8.8.6
+5.4.3. Querying ,http://www.sect.manipulating-packages-with-dpkg.en.html#sect.dpkg-list
+5.4.4. ,http://www.sect.manipulating-packages-with-dpkg.en.html#sect.dpkg-log
+5.4.5. Multi-Arch Support,http://www.sect.manipulating-packages-with-dpkg.en.html#sect.multi-arch
+5.5. Coexistence with Other Packaging Systems,http://www.sect.coexistence-with-other-packaging-systems.en.html
+6. Maintenance and Updates: The APT Tools,http://www.apt.en.html
+6.1. Filling in the ,http://www.apt.en.html#sect.apt-sources.list
+6.1.1. Syntax,http://www.apt.en.html#id-1.9.16.6
+6.1.2. Repositories for ,http://www.apt.en.html#sect.apt-sources.list.stable
+6.1.3. Repositories for ,http://www.apt.en.html#sect.apt-sources.list.testing
+6.1.4. Using Alternate Mirrors,http://www.apt.en.html#sect.apt-sources.list.cdn
+6.1.5. Non-Official Resources: ,http://www.apt.en.html#sect.apt-sources.list.mentors
+6.1.6. Caching Proxy for Debian Packages,http://www.apt.en.html#sect.apt-sources.list.cache-proxy
+6.2. ,http://www.sect.apt-get.en.html
+6.2.1. Initialization,http://www.sect.apt-get.en.html#sect.apt-update
+6.2.2. Installing and Removing,http://www.sect.apt-get.en.html#sect.apt.install
+6.2.3. System Upgrade,http://www.sect.apt-get.en.html#sect.apt-upgrade
+6.2.4. Configuration Options,http://www.sect.apt-get.en.html#sect.apt-config
+6.2.5. Managing Package Priorities,http://www.sect.apt-get.en.html#sect.apt.priorities
+6.2.6. Working with Several Distributions,http://www.sect.apt-get.en.html#sect.apt-mix-distros
+6.2.7. Tracking Automatically Installed Packages,http://www.sect.apt-get.en.html#sect.automatic-tracking
+6.2.8. APT Patterns,http://www.sect.apt-get.en.html#sect.apt-patterns
+6.3. The ,http://www.sect.apt-cache.en.html
+6.3.1. The ,http://www.sect.apt-cache.en.html#sect.apt-cache-policy
+6.4. The ,http://www.sect.apt-file.en.html
+6.5. Frontends: ,http://www.sect.apt-frontends.en.html
+6.5.1. ,http://www.sect.apt-frontends.en.html#sect.aptitude
+6.5.2. ,http://www.sect.apt-frontends.en.html#id-1.9.20.7
+6.6. Checking Package Authenticity,http://www.sect.package-authentication.en.html
+6.7. Upgrading from One Stable Distribution to the Next,http://www.sect.dist-upgrade.en.html
+6.7.1. Recommended Procedure,http://www.sect.dist-upgrade.en.html#id-1.9.22.6
+6.7.2. Handling Problems after an Upgrade,http://www.sect.dist-upgrade.en.html#sect.dist-upgrade-problems
+6.7.3. Cleaning Up after an Upgrade,http://www.sect.dist-upgrade.en.html#id-1.9.22.8
+6.8. Keeping a System Up to Date,http://www.sect.regular-upgrades.en.html
+6.9. Automatic Upgrades,http://www.sect.automatic-upgrades.en.html
+6.9.1. Configuring ,http://www.sect.automatic-upgrades.en.html#id-1.9.24.8
+6.9.2. Configuring APT,http://www.sect.automatic-upgrades.en.html#id-1.9.24.9
+6.9.3. Configuring ,http://www.sect.automatic-upgrades.en.html#id-1.9.24.10
+6.9.4. Handling Command Line Interactions,http://www.sect.automatic-upgrades.en.html#id-1.9.24.11
+6.9.5. The Miracle Combination,http://www.sect.automatic-upgrades.en.html#id-1.9.24.12
+6.10. Searching for Packages,http://www.sect.searching-packages.en.html
+7. Solving Problems and Finding Relevant Information,http://www.solving-problems.en.html
+7.1. Documentation Sources,http://www.solving-problems.en.html#sect.documentation-sources
+7.1.1. Manual Pages,http://www.solving-problems.en.html#sect.manual-pages
+7.1.2. ,http://www.solving-problems.en.html#id-1.10.4.5
+7.1.3. Specific Documentation,http://www.solving-problems.en.html#id-1.10.4.6
+7.1.4. Websites,http://www.solving-problems.en.html#id-1.10.4.7
+7.1.5. Tutorials (,http://www.solving-problems.en.html#id-1.10.4.8
+7.2. Common Procedures,http://www.sect.common-procedures.en.html
+7.2.1. Configuring a Program,http://www.sect.common-procedures.en.html#id-1.10.5.5
+7.2.2. Monitoring What Daemons Are Doing,http://www.sect.common-procedures.en.html#id-1.10.5.6
+7.2.3. Asking for Help on a Mailing List,http://www.sect.common-procedures.en.html#id-1.10.5.7
+7.2.4. Reporting a Bug When a Problem Is Too Difficult,http://www.sect.common-procedures.en.html#id-1.10.5.8
+"8. Basic Configuration: Network, Accounts, Printing...",http://www.basic-configuration.en.html
+8.1. Configuring the System for Another Language,http://www.basic-configuration.en.html#sect.config-language-support
+8.1.1. Setting the Default Language,http://www.basic-configuration.en.html#sect.default-language
+8.1.2. Configuring the Keyboard,http://www.basic-configuration.en.html#sect.keyboard-config
+8.1.3. Migrating to UTF-8,http://www.basic-configuration.en.html#sect.utf8-migration
+8.2. Configuring the Network,http://www.sect.network-config.en.html
+8.2.1. Ethernet Interface,http://www.sect.network-config.en.html#sect.interface-ethernet
+8.2.2. Wireless Interface,http://www.sect.network-config.en.html#sect.interface-wireless
+8.2.3. Connecting with PPP through a PSTN Modem,http://www.sect.network-config.en.html#sect.ppp-rtc
+8.2.4. Connecting through an ADSL Modem,http://www.sect.network-config.en.html#sect.adsl
+8.2.5. Automatic Network Configuration for Roaming Users,http://www.sect.network-config.en.html#sect.roaming-network-config
+8.3. Setting the Hostname and Configuring the Name Service,http://www.sect.hostname-name-service.en.html
+8.3.1. Name Resolution,http://www.sect.hostname-name-service.en.html#sect.name-resolution
+8.4. User and Group Databases,http://www.sect.user-group-databases.en.html
+8.4.1. User List: ,http://www.sect.user-group-databases.en.html#sect.etc-passwd
+8.4.2. The Hidden and Encrypted Password File: ,http://www.sect.user-group-databases.en.html#sect.etc-shadow
+8.4.3. Modifying an Existing Account or Password,http://www.sect.user-group-databases.en.html#sect.account-modification
+8.4.4. Disabling an Account,http://www.sect.user-group-databases.en.html#sect.disabling-account
+8.4.5. Group List: ,http://www.sect.user-group-databases.en.html#sect.etc-group
+8.5. Creating Accounts,http://www.sect.creating-accounts.en.html
+8.6. Shell Environment,http://www.sect.shell-environment.en.html
+8.7. Printer Configuration,http://www.sect.config-printing.en.html
+8.8. Configuring the Bootloader,http://www.sect.config-bootloader.en.html
+8.8.1. Identifying the Disks,http://www.sect.config-bootloader.en.html#sect.identify-disks
+8.8.2. GRUB 2 Configuration,http://www.sect.config-bootloader.en.html#sect.config-grub
+8.8.3. Using GRUB with EFI and ,http://www.sect.config-bootloader.en.html#sect.config-grub-efi
